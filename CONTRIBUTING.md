@@ -1,6 +1,6 @@
 # Contributing to SureForgeTech projects
 
-Thank you for helping. This page is the default for every public SureForgeTech
+Thank you for helping. This page is the default for every SureForgeTech
 repository. A repository with its own `CONTRIBUTING.md` uses that file instead,
 and its rules win.
 
@@ -11,7 +11,8 @@ and its rules win.
 - **Larger changes:** open an issue first so the approach can be agreed before
   you spend time on it.
 - **Security problems:** do not open a public issue. See
-  [SECURITY.md](SECURITY.md).
+  [the organization security policy](https://github.com/SureForgeTech/.github/blob/main/SECURITY.md),
+  or the repository's own `SECURITY.md` if it has one.
 
 ## Pull requests
 
@@ -25,5 +26,6 @@ and its rules win.
 
 ## Licence
 
-Each repository states its licence in its `LICENSE` file. By contributing you
-agree that your contribution is licensed under that same licence.
+Each repository states its licence in its `LICENSE` file, and by contributing
+you agree that your contribution is licensed under that same licence. Where a
+repository has no `LICENSE` file, GitHub's Terms of Service apply.

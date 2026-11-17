@@ -1,6 +1,6 @@
 # Security policy
 
-This is the default policy for every public SureForgeTech repository. A
+This is the default policy for every SureForgeTech repository. A
 repository with its own `SECURITY.md` uses that file instead.
 
 ## Reporting a vulnerability
@@ -8,7 +8,9 @@ repository with its own `SECURITY.md` uses that file instead.
 Report it privately through GitHub's private vulnerability reporting on the
 affected repository: open the repository's **Security** tab and choose
 **Report a vulnerability**. Private vulnerability reporting is enabled on every
-public SureForgeTech repository.
+public SureForgeTech repository. If the Security tab offers no report option,
+open an issue that asks for a private contact and contains no details of the
+problem.
 
 Do not open a public issue, discussion or pull request for a suspected
 vulnerability.
