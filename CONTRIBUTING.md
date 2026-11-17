@@ -8,9 +8,9 @@ and its rules win.
 
 SureForgeTech projects welcome **issues**: bug reports, questions and feature
 ideas. We do **not accept pull requests from outside contributors** at this
-time; the maintainers and their own automation write all changes. This keeps every project under a
-single copyright holder while licensing and contribution terms are settled. A
-pull request from anyone else may be closed without review; open
+time; the maintainers and their own automation write all changes themselves, so
+every change is written and reviewed by the maintainers. A pull request from
+anyone else may be closed without review; open
 an issue describing the change instead, and we will consider it.
 
 - **Bugs:** open an issue in the repository with the version, what you did,
@@ -27,7 +27,7 @@ You do not need a template or perfect wording: a GitHub account and a few
 sentences are enough. Most repositories offer short forms
 for bug reports and ideas, and a blank issue is always available.
 
-A useful bug report answers three questions:
+A useful bug report answers these questions:
 
 1. **What happened?** Paste error messages as text, not screenshots.
 2. **How can we see it?** Steps, a command or a tiny example.
