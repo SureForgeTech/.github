@@ -21,6 +21,23 @@ an issue describing the change instead, and we will consider it.
   [the organization security policy](https://github.com/SureForgeTech/.github/blob/main/SECURITY.md),
   or the repository's own `SECURITY.md` if it has one.
 
+### Writing a good issue
+
+You do not need a template or perfect wording: a GitHub account and a few
+sentences are enough. Most repositories offer short forms
+for bug reports and ideas, and a blank issue is always available.
+
+A useful bug report answers three questions:
+
+1. **What happened?** Paste error messages as text, not screenshots.
+2. **How can we see it?** Steps, a command or a tiny example.
+3. **What did you expect?**
+4. **Which version?** The release, or the commit you built from.
+
+For an idea, describe the problem you are trying to solve before the solution;
+that lets us find the simplest fix. One issue per problem keeps things easy to
+track.
+
 Never include secrets, tokens, real customer data or personal information in
 an issue. Public repositories have secret scanning with push protection
 enabled.

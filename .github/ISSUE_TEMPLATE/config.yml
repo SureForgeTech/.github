@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security problem privately
+    url: https://github.com/SureForgeTech/.github/blob/main/SECURITY.md
+    about: Do not post vulnerabilities in public issues; follow the security policy.
+  - name: Product documentation
+    url: https://sureforgetech.com/docs/
+    about: Guides and reference for SureForge products.
