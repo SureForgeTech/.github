@@ -17,6 +17,9 @@ SureForgeTech projects welcome **issues** and **pull requests**.
   an issue first so we agree on the approach, and link it in your pull request.
   Every pull request gets review and must pass the required checks before a
   maintainer merges it.
+- **CodeRabbit** (free open-source plan) may comment on pull requests. Its reviews are
+  advice only and never required. On repositories with fewer than 10 stars it does not
+  run on its own; comment `@coderabbitai review` to trigger it.
 - **Bugs:** open an issue in the repository with the version, what you did,
   what you expected and what happened.
 - **Ideas and larger changes:** open an issue describing the problem and the
