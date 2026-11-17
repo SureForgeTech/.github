@@ -12,8 +12,8 @@ public SureForgeTech repository. If the Security tab offers no report option,
 open an issue that asks for a private contact and contains no details of the
 problem.
 
-Do not open a public issue, discussion or pull request for a suspected
-vulnerability.
+Do not describe a suspected vulnerability in a public issue, discussion or
+pull request.
 
 Include the repository and version or commit, the steps to reproduce, and the
 impact you observed. No response-time commitment is currently stated.
