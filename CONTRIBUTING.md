@@ -23,15 +23,16 @@ an issue describing the change instead, and we will consider it.
 
 ### Writing a good issue
 
-You do not need an account setup, a template or perfect wording: a GitHub
-account and a few sentences are enough. Most repositories offer short forms
+You do not need a template or perfect wording: a GitHub account and a few
+sentences are enough. Most repositories offer short forms
 for bug reports and ideas, and a blank issue is always available.
 
 A useful bug report answers three questions:
 
 1. **What happened?** Paste error messages as text, not screenshots.
 2. **How can we see it?** Steps, a command or a tiny example.
-3. **What did you expect?** And the version or commit you used.
+3. **What did you expect?**
+4. **Which version?** The release, or the commit you built from.
 
 For an idea, describe the problem you are trying to solve before the solution;
 that lets us find the simplest fix. One issue per problem keeps things easy to

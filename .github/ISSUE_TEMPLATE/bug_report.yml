@@ -2,6 +2,11 @@ name: Bug report
 description: Something does not work the way the docs say it should.
 labels: ["bug"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Please leave out passwords, tokens, keys and customer data. For a security problem,
+        do not open an issue: follow the [security policy](https://github.com/SureForgeTech/.github/blob/main/SECURITY.md).
   - type: textarea
     id: what
     attributes:
@@ -23,8 +28,3 @@ body:
     attributes:
       label: Version and platform
       placeholder: e.g. v1.2.0 on macOS 15, or the commit you built from
-  - type: markdown
-    attributes:
-      value: |
-        Please leave out passwords, tokens, keys and customer data. For a security problem,
-        use private vulnerability reporting instead (see the security policy link on the previous page).
