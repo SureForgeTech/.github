@@ -6,17 +6,24 @@ and its rules win.
 
 ## How to contribute
 
-SureForgeTech projects welcome **issues**: bug reports, questions and feature
-ideas. We do **not accept pull requests from outside contributors** at this
-time; the maintainers and their own automation write all changes themselves, so
-every change is written and reviewed by the maintainers. A pull request from
-anyone else may be closed without review; open
-an issue describing the change instead, and we will consider it.
+SureForgeTech projects welcome **issues** and **pull requests**.
 
+- **Sign off every commit** with `git commit -s`. This adds a `Signed-off-by:`
+  line certifying the [Developer Certificate of Origin](https://developercertificate.org/):
+  you wrote the change or have the right to submit it under the repository's
+  licence, and your contribution comes under that licence. A check confirms the
+  sign-off on pull requests from outside contributors.
+- **Pull requests:** for anything larger than a small fix, open or comment on
+  an issue first so we agree on the approach, and link it in your pull request.
+  Every pull request gets review and must pass the required checks before a
+  maintainer merges it.
+- **CodeRabbit** (free open-source plan) may comment on pull requests. Its reviews are
+  advice only and never required. On repositories with fewer than 10 stars it does not
+  run on its own; comment `@coderabbitai review` to trigger it.
 - **Bugs:** open an issue in the repository with the version, what you did,
   what you expected and what happened.
 - **Ideas and larger changes:** open an issue describing the problem and the
-  change you would like.
+  change you would like, then a pull request if you want to write it.
 - **Security problems:** do not describe them in a public issue. See
   [the organization security policy](https://github.com/SureForgeTech/.github/blob/main/SECURITY.md),
   or the repository's own `SECURITY.md` if it has one.
@@ -44,6 +51,7 @@ enabled.
 
 ## Licence
 
-Each repository states its licence in its `LICENSE` file. Where a
+Each repository states its licence in its `LICENSE` file, and contributions
+come under that licence (see the sign-off above). Where a
 repository has no `LICENSE` file, no licence is granted beyond what GitHub's
 Terms of Service allow, such as viewing and forking on GitHub.
